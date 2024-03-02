@@ -1,8 +1,10 @@
 ### Check out my projects
 Project 1: https://anime-planet.adaptable.app/ 
+
 Here at Anime-Planet, we turn your anime dreams into reality! Dive into a world of endless excitement, where every click is a ticket to adventure. Your perfect anime experience starts with us!
 
 Project 2: https://evokehub.netlify.app/
+
 Discover your unique identity with Evoke—where we unleash your creativity through essential tools and unwavering support. Elevate your portfolio effortlessly!
 
 <!--
